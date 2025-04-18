@@ -1,0 +1,14 @@
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.sl]
+@="MySLFile"
+
+[HKEY_CLASSES_ROOT\MySLFile]
+@="leveling .sl File"
+
+[HKEY_CLASSES_ROOT\MySLFile\DefaultIcon]
+@="C:\Users\mahen\Documents\code_databse\leveling\fille_ext\Icon.ico"
+
+[HKEY_CLASSES_ROOT\MySLFile\shell\open\command]
+@="\"C:\\Path\\To\\YourApp.exe\" \"%1\""
