@@ -1,2 +1,2 @@
 # leveling
-a python based programing language 
+A Python based programing language 
